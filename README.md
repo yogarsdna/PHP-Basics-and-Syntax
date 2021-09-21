@@ -6,4 +6,4 @@ Modern PHP Web Development w/ MySQL, GitHub & Heroku") by Trevoir Williams, Lear
 
 If you want to learn it too, you can take the source code from this repository, and if you had any suggestions to make it easier to study the PHP functions in this repository, please kindly send a message to me through my social media such as my [LinkedIn](https://www.linkedin.com/in/gede-yoga-arisudana-81a52a1bb/ "LinkedIn") and [Instagram](https://www.instagram.com/yogarsdna/ "Instagram").
 
-By the way, please forget about the design of this website lol, because this website or to be more precise, this source codes are focused to learn about the functions of PHP, thank you!
+By the way, please forget about the design of this website lol, because this website or to be more precise, this source codes are focused to learn about the PHP functions, thank you!
